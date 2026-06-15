@@ -1,0 +1,1 @@
+This assignment is designed to evaluate the understanding of database table design, ERD relationships, and intermediate-to-advanced SQL queries.
