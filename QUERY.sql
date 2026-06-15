@@ -65,7 +65,7 @@ INSERT INTO Bookings (booking_id, user_id, match_id, seat_number, payment_status
 
 
 -- =========================================================================
--- PART 2: DATA RETRIEVAL (THE ASSIGNMENT QUERIES)
+-- PART 2: DATA RETRIEVAL (THE ASSIGNMENT with all the QUERIES)
 -- =========================================================================
 
 -- Query 1: Retrieve all upcoming 'Champions League' matches that are 'Available'
